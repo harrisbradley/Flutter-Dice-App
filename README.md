@@ -24,16 +24,13 @@ To run the app locally, follow these steps:
 
    ```bash
    cd flutter-dice-app
-3. Clone the repository:
+3. flutter pub get:
 
    ```bash
-   git clone https://github.com/your-username/flutter-dice-app.git
-4. Clone the repository:
+   flutter pub get
+4. Run the app:
 
    ```bash
-   git clone https://github.com/your-username/flutter-dice-app.git
-5. Clone the repository:
+   flutter run
 
-   ```bash
-   git clone https://github.com/your-username/flutter-dice-app.git
 
