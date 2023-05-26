@@ -4,7 +4,8 @@ A simple Flutter app that rolls a six-sided dice with the click of a button.
 
 ## Demo
 
-![Dice App Demo](first_app/assets/images/dice-2.png)
+<img src="first_app/assets/images/dice-2.png" alt="Dice App Demo" width="300" height="300">
+
 
 ## Description
 
